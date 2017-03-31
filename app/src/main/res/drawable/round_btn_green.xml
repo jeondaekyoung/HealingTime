@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<!-- 평상시 -->
+<item android:state_focused="false" android:state_pressed="false">
+    <layer-list>
+
+        <!-- CONTENT LAYER -->
+        <item>
+            <shape>
+                <solid
+                    android:color="#83A54E" />
+                <corners android:radius="30dp" />
+            </shape>
+        </item>
+    </layer-list>
+</item>
+
+
+</selector>

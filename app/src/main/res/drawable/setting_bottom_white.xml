@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<!-- 평상시 -->
+<item android:state_focused="false" android:state_pressed="false">
+    <layer-list>
+        <!-- SHADOW LAYER -->
+        <item android:left="2dp" android:top="0dp">
+            <shape>
+                <solid android:color="#F4F2D9" />
+            </shape>
+        </item>
+        <!-- CONTENT LAYER -->
+        <item android:bottom="0dp" android:right="2dp">
+            <shape>
+                <solid android:color="#FFFFFF" />
+            </shape>
+        </item>
+    </layer-list>
+</item>
+
+</selector>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_light_bulb"
+        icon="@drawable/light_bulb"
+        title="Nearby" />
+    <tab
+        id="@+id/tab_spray"
+        icon="@drawable/spray"
+        title="Favorites" />
+    <tab
+        id="@+id/tab_shopping_cart"
+        icon="@drawable/shopping_cart2"
+        title="Friends" />
+    <tab
+        id="@+id/tab_open_magazine"
+        icon="@drawable/open_magazine_256"
+        title="Friends" />
+</tabs>

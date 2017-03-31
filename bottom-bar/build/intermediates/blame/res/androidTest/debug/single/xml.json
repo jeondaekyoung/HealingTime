@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\BottomBar-master\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\dummy_tabs_five.xml",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\BottomBar-master\\bottom-bar\\src\\androidTest\\res\\xml\\dummy_tabs_five.xml"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\BottomBar-master\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\dummy_tabs_three.xml",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\BottomBar-master\\bottom-bar\\src\\androidTest\\res\\xml\\dummy_tabs_three.xml"
+    }
+]
